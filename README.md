@@ -10,6 +10,8 @@ Download **Doorslam.zip** from [Model downloads](https://github.com/vectenor-eng
 
 ## Door-slam result review
 
+![Front door-slam simulation contour views](door-slam-results.png)
+
 The supplied front-door result view shows contour distributions on the inner and outer panels, with detailed views around local connection regions. It illustrates the post-processing review of localized response. The supplied image does not identify the plotted variable, units, or frame time, so a numerical acceptance assessment requires that information.
 
 ## Body-in-white bending
